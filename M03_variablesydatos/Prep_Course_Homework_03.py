@@ -9,7 +9,6 @@
 
 
 
-
 # 2) Imprimir el tipo de dato de la constante 8.5
 
 # In[3]:
@@ -68,7 +67,11 @@ pi = 3.1416
 # 9) Imprimir el tipo de dato correspondientes a las variables creadas en el punto 8
 
 # In[5]:
+t1='True'
+t2=True
 
+print(type(t1))
+print(type(t2))
 
 
 
