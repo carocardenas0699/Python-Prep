@@ -1,4 +1,4 @@
-class Funm:
+class Funmm:
 
     def __init__(self,lista):
         self.lista = lista
