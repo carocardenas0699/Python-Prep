@@ -1,0 +1,5 @@
+TimeStamp, Temperatura, Humedad, Lluvia
+1719035551, 30, 40, False
+1719035561, 15, 45, True
+1719035570, 20, 70, False
+1719035592, 28, 75, False
